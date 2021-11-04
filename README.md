@@ -1,4 +1,4 @@
-# Projeto proposto no curso da Alura [React: Automatizando os testes em aplicações front-end](https://www.alura.com.br/curso-online-react-automatizando-testes).
+Projeto proposto no curso da Alura [React: Automatizando os testes em aplicações front-end](https://www.alura.com.br/curso-online-react-automatizando-testes).
 
 ## Scripts
 
