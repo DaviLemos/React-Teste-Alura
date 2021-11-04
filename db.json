@@ -1,0 +1,145 @@
+{
+  "conta": {
+    "saldo": 990
+  },
+  "transacoes": [
+    {
+      "valor": 10,
+      "transacao": "saque",
+      "data": "10/08/2020",
+      "id": 1
+    },
+    {
+      "transacao": "deposito",
+      "valor": "20",
+      "data": "26/09/2020",
+      "id": 2
+    },
+    {
+      "transacao": "deposito",
+      "valor": "01000",
+      "data": "03/11/2021",
+      "id": 3
+    },
+    {
+      "transacao": "deposito",
+      "valor": "500",
+      "data": "03/11/2021",
+      "id": 4
+    },
+    {
+      "transacao": "saque",
+      "valor": "50000",
+      "data": "03/11/2021",
+      "id": 5
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "2021-11-3",
+      "id": 6
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "2021-11-3",
+      "id": 7
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "2021-11-4",
+      "id": 8
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "2021-11-4",
+      "id": 9
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "2021-11-4",
+      "id": 10
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "2021-11-4",
+      "id": 11
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "2021-11-4",
+      "id": 12
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "2021-11-4",
+      "id": 13
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "2021-11-4",
+      "id": 14
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "2021-11-4",
+      "id": 15
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "2021-11-4",
+      "id": 16
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "2021-11-4",
+      "id": 17
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "2021-11-4",
+      "id": 18
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "2021-11-4",
+      "id": 19
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "2021-11-4",
+      "id": 20
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "2021-11-4",
+      "id": 21
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "2021-11-4",
+      "id": 22
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "2021-11-4",
+      "id": 23
+    }
+  ]
+}
